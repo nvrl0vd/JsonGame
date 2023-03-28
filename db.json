@@ -1,0 +1,36 @@
+{
+  "QuizQuestions": [
+    {
+      "Question": "Какой знак указывает компилятору на конец инструкции??",
+      "Option_1": ";",
+      "Option_2": ".",
+      "Option_3": "//",
+      "Option_4": "}",
+      "Correct_Answer": ";"
+    },
+    {
+      "Question": "В какие рамки помещается набор инструкций для объединения в блок кода?",
+      "Option_1": "<...>",
+      "Option_2": "/*...*/",
+      "Option_3": "{...}",
+      "Option_4": "[...]",
+      "Correct_Answer": "{...}"
+    },
+    {
+      "Question": "Укажите символы для размещения комментариев",
+      "Option_1": "->",
+      "Option_2": "//",
+      "Option_3": "{",
+      "Option_4": "*",
+      "Correct_Answer": "//"
+    },
+    {
+      "Question": "Укажите команду, выводящую текст в консоль",
+      "Option_1": "Console.Message(...)",
+      "Option_2": "Console.WriteMessage(...)",
+      "Option_3": "Console.ReadLine(...)",
+      "Option_4": "Console.WriteLine(...)",
+      "Correct_Answer": "Console.WriteLine(...)"
+    }
+  ]
+}
